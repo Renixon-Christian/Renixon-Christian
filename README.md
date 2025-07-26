@@ -43,4 +43,5 @@ Hi, Renixon! This is your updated profile.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Renixon-Christian/Renixon-Christian/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Renixon-Christian/Renixon-Christian/main/output/snake.svg" alt="Snake animation" />
+
