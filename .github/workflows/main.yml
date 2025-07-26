@@ -37,11 +37,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Passo 3: Envia o arquivo gerado de volta para o seu repositório
-      - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Esta ação comita e envia as alterações automaticamente
+      - name: Commit and Push Snake Animation
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          # O diretório que contém os arquivos a serem enviados
-          target_branch: output
-          build_dir: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "chore: update snake animation"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
