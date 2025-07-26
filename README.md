@@ -50,7 +50,9 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 <!-- Animação da Cobra -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Renixon-Christian/Renixon-Christian/main/dist/github-snake.svg" alt="Snake animation" />
+<img src="![snake gif](https://github.com/renixon-christian/renixon=christian/blob/output/github-contribution-grid-snake.svg)
+
+" alt="Snake animation" />
 </div>
 
 <br>
