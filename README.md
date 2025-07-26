@@ -46,7 +46,7 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 <!-- Snake Animation -->
 
 <div align="center">
-<img src="(https://github.com/Renixon-Chistian/Renixon-Christian/blob/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
+<img src="https://github.com/Renixon-Chistian/Renixon-Christian/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
